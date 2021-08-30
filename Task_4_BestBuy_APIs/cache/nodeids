@@ -1,5 +1,0 @@
-[
-  "tests/test_happyPaths.py::test_healthCheck",
-  "tests/test_happyPaths.py::test_product_id",
-  "tests/test_happyPaths.py::test_version"
-]
